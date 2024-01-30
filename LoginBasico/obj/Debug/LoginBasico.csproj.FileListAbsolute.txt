@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\bin\Debug\LoginBasico.exe.config
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\bin\Debug\LoginBasico.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\bin\Debug\LoginBasico.pdb
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.Form1.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\LoginBasico\obj\Debug\LoginBasico.pdb

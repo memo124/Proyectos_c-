@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\Ejercicio2\obj\Debug\Ejercicio2.pdb
