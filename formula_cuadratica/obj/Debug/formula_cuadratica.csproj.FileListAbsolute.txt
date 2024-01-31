@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\bin\Debug\formula_cuadratica.exe.config
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\bin\Debug\formula_cuadratica.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\bin\Debug\formula_cuadratica.pdb
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.Form1.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\formula_cuadratica\obj\Debug\formula_cuadratica.pdb

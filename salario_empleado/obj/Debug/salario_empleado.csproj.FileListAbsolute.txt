@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\bin\Debug\salario_empleado.exe.config
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\bin\Debug\salario_empleado.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\bin\Debug\salario_empleado.pdb
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.Form1.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\salario_empleado\obj\Debug\salario_empleado.pdb

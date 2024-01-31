@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\bin\Debug\conversiones.exe.config
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\bin\Debug\conversiones.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\bin\Debug\conversiones.pdb
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.Form1.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\conversiones\obj\Debug\conversiones.pdb

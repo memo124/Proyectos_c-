@@ -1,0 +1,25 @@
+Codigo generacion - Nosotros - 
+NewId()
+
+codigo de generacion - Nosotros -
+DTE-10-00010001-000000000000
+
+Sello de recepcion - Hacienda -
+no tenemos
+
+Modelo de facturacion - Nosotros -
+01
+
+Tipo de transmision - Nosotros -
+1
+
+Fecha y hora - Nosotros -
+2024-01-30 00:00:00
+
+
+
+
+Formulario, añadirle un gris de fondo - que se vea distinto
+Formulario, ordenar los inputs por Label(arriba) e input(Abajo)
+envio, validar toda la informacion
+Formulacion, cambio de iconos al formulario de ingreso (Color gris)
