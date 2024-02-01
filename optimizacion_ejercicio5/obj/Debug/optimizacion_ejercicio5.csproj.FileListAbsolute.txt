@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\bin\Debug\optimizacion_ejercicio5.exe.config
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\bin\Debug\optimizacion_ejercicio5.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\bin\Debug\optimizacion_ejercicio5.pdb
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.Form1.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.exe
+D:\proyectos\proyectos en c#\Ejercicios_Guia1\optimizacion_ejercicio5\obj\Debug\optimizacion_ejercicio5.pdb
